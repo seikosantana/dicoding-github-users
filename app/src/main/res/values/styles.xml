@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonSecondary" parent="Theme.GithubUsers">
+        <item name="android:backgroundTint">@color/secondary</item>
+    </style>
+</resources>

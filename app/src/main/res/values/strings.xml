@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="repositories_placeholder">%1$d repositories</string>
+    <string name="followers_placeholder">%1$d followers</string>
+    <string name="following_placeholder">%1$d following</string>
+    <string name="share_placeholder">
+        Check out this Github User\n\nName: %1$s\nUsername: %2$s\nCompany: %3$s\nSee more on %4$s.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
